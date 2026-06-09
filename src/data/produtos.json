@@ -1,0 +1,162 @@
+[
+  { 
+    "id": 1, 
+    "nome": "Fio Elétrico Flexível 2.5mm 100m", 
+    "preco": "R$ 150,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Cabos",
+    "destaque": true
+  },
+  { 
+    "id": 2, 
+    "nome": "Cabo Flexível 4.0mm 100m", 
+    "preco": "R$ 240,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Cabos",
+    "destaque": false
+  },
+  { 
+    "id": 3, 
+    "nome": "Disjuntor DIN Bipolar 32A", 
+    "preco": "R$ 45,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Segurança",
+    "destaque": true
+  },
+  { 
+    "id": 4, 
+    "nome": "Tomada Dupla 10A Embutir", 
+    "preco": "R$ 25,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Interruptores e Tomadas",
+    "destaque": false
+  },
+  { 
+    "id": 5, 
+    "nome": "Refletor LED 50W IP66", 
+    "preco": "R$ 85,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Iluminação",
+    "destaque": true
+  },
+  { 
+    "id": 6, 
+    "nome": "Alicate Decapador Multifuncional", 
+    "preco": "R$ 65,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Ferramentas",
+    "destaque": false
+  },
+  { 
+    "id": 7, 
+    "nome": "Fita Isolante Antichama 20m", 
+    "preco": "R$ 12,50", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Acessórios",
+    "destaque": true
+  },
+  { 
+    "id": 8, 
+    "nome": "Interruptor Simples com Tomada 10A", 
+    "preco": "R$ 18,90", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Interruptores e Tomadas",
+    "destaque": false
+  },
+  { 
+    "id": 9, 
+    "nome": "Lâmpada LED Bulbo 9W Bivolt", 
+    "preco": "R$ 10,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Iluminação",
+    "destaque": true
+  },
+  { 
+    "id": 10, 
+    "nome": "Quadro de Distribuição de Embutir 12/16 Disjuntores", 
+    "preco": "R$ 78,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Segurança",
+    "destaque": false
+  },
+  { 
+    "id": 11, 
+    "nome": "Canaleta Sistema X com Fita 20x10mm 2m", 
+    "preco": "R$ 14,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Organização",
+    "destaque": false
+  },
+  { 
+    "id": 12, 
+    "nome": "Disjuntor DIN Monopolar 16A", 
+    "preco": "R$ 15,50", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Segurança",
+    "destaque": true
+  },
+  { 
+    "id": 13, 
+    "nome": "Fita LED 5m Branco Frio com Fonte", 
+    "preco": "R$ 55,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Iluminação",
+    "destaque": false
+  },
+  { 
+    "id": 14, 
+    "nome": "Caixa de Luz 4x2 Amarela Embutir", 
+    "preco": "R$ 2,50", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Organização",
+    "destaque": false
+  },
+  { 
+    "id": 15, 
+    "nome": "Multímetro Digital Portátil", 
+    "preco": "R$ 49,90", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Ferramentas",
+    "destaque": true
+  },
+  { 
+    "id": 16, 
+    "nome": "Chuveiro Elétrico 5500W 220V", 
+    "preco": "R$ 99,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Eletrodomésticos",
+    "destaque": true
+  },
+  { 
+    "id": 17, 
+    "nome": "Resistência para Chuveiro 5500W 220V", 
+    "preco": "R$ 22,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Acessórios",
+    "destaque": false
+  },
+  { 
+    "id": 18, 
+    "nome": "Dispositivo de Proteção contra Surtos (DPS) 45KA", 
+    "preco": "R$ 68,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Segurança",
+    "destaque": true
+  },
+  { 
+    "id": 19, 
+    "nome": "Interruptor Diferencial Residual (IDR) Tetrapolar 40A", 
+    "preco": "R$ 185,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Segurança",
+    "destaque": false
+  },
+  { 
+    "id": 20, 
+    "nome": "Passa Fio Profissional com Alma de Aço 20m", 
+    "preco": "R$ 42,00", 
+    "imagem": "/produtos/fio.png", 
+    "categoria": "Ferramentas",
+    "destaque": true
+  }
+]
