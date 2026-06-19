@@ -140,3 +140,7 @@ Contribuições são bem-vindas. Se quiser aprimorar este projeto:
 ---
 
 Feito para demonstrar um site institucional de materiais elétricos com navegação moderna, visual escuro e experiência responsiva.
+
+---
+
+### a.@B4rros_sz
