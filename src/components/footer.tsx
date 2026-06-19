@@ -2,8 +2,8 @@ export default function Footer() {
     const currentYear = new Date().getFullYear();
 
     return (
-        <footer className="w-full bg-black border-t border-zinc-800 px-6 md:px-12 lg:px-36 py-8">
-            <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-zinc-400">
+        <footer className="w-full bg-black border-t border-zinc-800 py-8 px-4 sm:px-6 lg:px-36">
+            <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-zinc-400 text-center md:text-left">
                 <div>
                     <h2 className="text-white font-semibold text-base">
                         EletroBarros

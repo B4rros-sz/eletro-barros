@@ -18,7 +18,7 @@ export default function Header() {
   ]
 
   return (
-    <header className="sticky top-0 z-50 w-full h-20 bg-black/80 backdrop-blur-md border-b border-zinc-900 px-6 md:px-12 lg:px-36 flex items-center justify-between transition-all duration-300">
+      <header className="sticky top-0 z-50 w-full h-20 bg-black/80 backdrop-blur-md border-b border-zinc-900 px-4 sm:px-6 lg:px-36 flex items-center justify-between transition-all duration-300 ease-in-out">
       {/* Logo */}
       <Link href="/" className="flex items-center gap-3 group">
         <div className="relative h-10 w-10 flex items-center justify-center rounded-full bg-jeans-500 text-white group-hover:scale-105 transition-transform duration-300">
@@ -84,7 +84,7 @@ export default function Header() {
         {/* Mobile Menu Button */}
         <button
           onClick={() => setIsOpen(!isOpen)}
-          className="text-white focus:outline-none p-2 rounded-lg border border-zinc-800 hover:bg-zinc-900 transition-colors"
+          className="text-white focus:outline-none p-2 rounded-lg border border-zinc-800 hover:bg-zinc-900 transition-all duration-300 ease-in-out"
           aria-label="Toggle Menu"
         >
           {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}

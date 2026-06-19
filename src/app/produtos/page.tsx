@@ -15,8 +15,8 @@ export default function PaginaProdutos() {
       
       {/* Category Header */}
       <div className="py-10 bg-zinc-950 border-b border-zinc-900">
-        <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-36">
-          <h1 className="text-3xl md:text-5xl font-black uppercase tracking-tight mb-6">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-36">
+          <h1 className="text-3xl md:text-5xl font-black uppercase tracking-tight mb-6 text-center md:text-left">
             Catálogo de <span className="text-jeans-500 italic">Produtos</span>
           </h1>
           <div className="flex gap-3 overflow-x-auto pb-2 scrollbar-none">
@@ -41,7 +41,7 @@ export default function PaginaProdutos() {
       </div>
 
       {/* Main Catalog Area */}
-      <main className="flex-1 max-w-7xl mx-auto px-6 md:px-12 lg:px-36 py-12 w-full">
+      <main className="flex-1 max-w-7xl mx-auto px-4 sm:px-6 lg:px-36 py-12 w-full">
         <Produtos categoriaAtiva={categoriaAtiva} />
       </main>
 

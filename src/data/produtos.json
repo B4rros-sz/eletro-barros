@@ -47,7 +47,7 @@
     "categoria": "Ferramentas",
     "destaque": false
   },
-  { 
+  {
     "id": 7, 
     "nome": "Fita Isolante Antichama 20m", 
     "preco": "R$ 12,50", 
@@ -55,7 +55,7 @@
     "categoria": "Acessórios",
     "destaque": true
   },
-  { 
+  {
     "id": 8, 
     "nome": "Interruptor Simples com Tomada 10A", 
     "preco": "R$ 18,90", 
